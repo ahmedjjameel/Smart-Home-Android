@@ -13,6 +13,11 @@ Get notified when the camera detects any movement outside and you can watch a vi
 ![Fig 2](https://user-images.githubusercontent.com/81799459/223463139-4f8e1f78-bee2-49dc-9356-70a40d3c7581.jpg)
 
 
+
+![Fig 3](https://user-images.githubusercontent.com/81799459/223464019-b1c02bf1-044f-4ac3-b21a-8f1b1b3b8835.jpg)
+
+
+
 # Comforts
 Our smart home solutions make your life easier: automatic connection between devices simplifies your daily activities; You don't have to lift a finger and you'll always be in control, wherever you are.
 
