@@ -21,7 +21,10 @@ This system provides smart home solutions to offer our customers control over ap
 
 
 
-![Fig 3](https://user-images.githubusercontent.com/81799459/223464019-b1c02bf1-044f-4ac3-b21a-8f1b1b3b8835.jpg)
+![Fig 3](https://github.com/ahmedjjameel/Smart-Home-Android/assets/81799459/03fa3ff3-9dec-4d14-b244-13443f4fff22)
+
+
+
 
 
 
