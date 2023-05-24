@@ -2,8 +2,13 @@
 
 This system provides smart home solutions to offer our customers control over appliances and the home environment, providing comfort in life, as well as security and energy saving. All devices are controlled at the touch of a button on your smartphone.
 
-It detects motion and sends you alerts instantly
-Get notified when the camera detects any movement outside and you can watch a video of that movement to check everything out. Also, you can customize your own experience by setting motion zones to capture only what happens in the area you choose.
+•	1080p HD video doorbell with enhanced features that let you see, hear, and speak to anyone from your phone, tablet, or PC.
+
+•	Enjoy improved motion detection, privacy zones and audio privacy, and 2.4GHz/5GHz wifi connectivity.
+
+•	Receive mobile notifications when anyone presses your doorbell or triggers your built-in motion sensors.
+
+
 
 
 
