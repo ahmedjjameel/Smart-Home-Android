@@ -6,11 +6,13 @@ It detects motion and sends you alerts instantly
 Get notified when the camera detects any movement outside and you can watch a video of that movement to check everything out. Also, you can customize your own experience by setting motion zones to capture only what happens in the area you choose.
 
 
-![Fig 1](https://user-images.githubusercontent.com/81799459/223463101-9c7c99eb-2250-4370-8d4f-7d8db9c3e4d7.jpg)
+
+![fig1](https://github.com/ahmedjjameel/Smart-Home-Android/assets/81799459/cd814462-e2c1-4dcd-8e32-24345d56fc27)
 
 
 
-![Fig 2](https://user-images.githubusercontent.com/81799459/223463139-4f8e1f78-bee2-49dc-9356-70a40d3c7581.jpg)
+
+![fig2](https://github.com/ahmedjjameel/Smart-Home-Android/assets/81799459/d962907e-e7f5-40c9-9d5d-6ca5d1ccbd85)
 
 
 
